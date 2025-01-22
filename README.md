@@ -25,7 +25,7 @@ http://localhost:8080/swagger-ui/index.html#.
 ```
   
 # API Endpoints
-![Captura de tela 2025-01-22 162943](https://github.com/user-attachments/assets/d248803a-4f84-44ab-9af0-18c38d4ef5b2)
+![Captura de tela 2025-01-22 162943](https://github.com/user-attachments/assets/d248803a-4f84-44ab-9af0-18c38d4ef5b2) Visualização dos endpoints no swagger.
 
 ```
 GET /clientes - Mostrar todos os clientes cadastrados.
@@ -36,7 +36,7 @@ DELETE /clientes/id - Deletar um cliente pelo id.
 ```
 ### POST /clientes
 ##### REQUEST
-![Captura de tela 2025-01-22 163044](https://github.com/user-attachments/assets/7f71fa77-2075-44e7-a4bb-38fa6239ff51)
+![Captura de tela 2025-01-22 163044](https://github.com/user-attachments/assets/7f71fa77-2075-44e7-a4bb-38fa6239ff51) Visualização do request do post no swagger.
 
 ```
 {
@@ -49,7 +49,7 @@ DELETE /clientes/id - Deletar um cliente pelo id.
 }
 ```
 ##### RESPONSE
-![Captura de tela 2025-01-22 163106](https://github.com/user-attachments/assets/ab0ba21a-2641-48f9-a543-dbc7358febc9)
+![Captura de tela 2025-01-22 163106](https://github.com/user-attachments/assets/ab0ba21a-2641-48f9-a543-dbc7358febc9) Visualização do response do post no swagger.
 
 ```
 {
@@ -72,7 +72,7 @@ DELETE /clientes/id - Deletar um cliente pelo id.
 ```
 ### PUT /clientes/id
 ##### REQUEST
-![Captura de tela 2025-01-22 165010](https://github.com/user-attachments/assets/8f6a84a3-6857-430b-b06b-2027b0044c02)
+![Captura de tela 2025-01-22 165010](https://github.com/user-attachments/assets/8f6a84a3-6857-430b-b06b-2027b0044c02) Visualização do request do put no swagger.
 
 ```
 {
@@ -96,7 +96,7 @@ DELETE /clientes/id - Deletar um cliente pelo id.
 }
 ```
 ##### RESPONSE
-![Captura de tela 2025-01-22 165018](https://github.com/user-attachments/assets/ff23a049-2dcd-4351-9ca5-62ae0ad37e45)
+![Captura de tela 2025-01-22 165018](https://github.com/user-attachments/assets/ff23a049-2dcd-4351-9ca5-62ae0ad37e45) Visualização do response do put no swagger.
 
 ```
 {
